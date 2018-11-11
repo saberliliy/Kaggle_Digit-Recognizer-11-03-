@@ -1,13 +1,8 @@
+# -*- coding: UTF-8 -*-
 import pandas as pd
 import  matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.model_selection import train_test_split
-import pandas as pd
-
-import seaborn as sns
-
-import matplotlib.pyplot as plt
-
 import numpy as np
 
 from keras.models import Sequential
